@@ -1,0 +1,28 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+/* style for the first div*/
+.div1 {
+    height: 400px;
+    width: 100%;
+    background: #ff0404;
+    padding: 20px;
+    margin: 20px;
+}
+/* style for the second div*/
+.div2 {
+    height: 350px;
+    width: 90%;
+    background: #fff407;
+    padding: 15px;
+    margin: 10px;
+}
+/* style for third div*/
+.div3 {
+    height: 250px;
+    width: 80%;
+    background: #232aa9;
+    padding: 10px;
+    margin: 5px;
+}
